@@ -1,10 +1,10 @@
-1 Amazon
-2 Nile
-3 Jandzi
-4 Congo
-5 Enisey
-6 Ob
-7 Lena
-8 Mekong
-9 Parana
-
+1 RĪGA
+2 DAUGAVPILS
+3 LIEPĀJA
+4 JELGAVA
+5 JŪRMALA
+6 VENTSPILS
+7 RĒZEKNE
+8 VALMIERA
+9 OGRE
+10 JĒKABPILS
