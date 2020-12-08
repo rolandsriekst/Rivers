@@ -1,1 +1,22 @@
-span:{color: aqua;}
+span
+{color: aqua;}
+
+/*coments blblblb*/
+selector
+    {property: value;
+    property2: value2
+}
+
+
+#header{
+    background-color: red;
+}
+
+.digit{
+    height: 40px;
+}
+
+*{
+    text-align: center;
+}
+
